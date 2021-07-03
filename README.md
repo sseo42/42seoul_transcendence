@@ -1,1 +1,7 @@
-# 42seoul_transcendence
+#42seoul_transcendence
+========================
+
+##References
+
+========================
+##Schedule
